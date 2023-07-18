@@ -9,3 +9,12 @@ This Repository consists of all the tasks that were assigned to me during my int
   <img src="https://github.com/ADVAIT135/Bharat_Intern_Artificial_Inteligence_Intern_/blob/main/Task_1_Resume_Parser/4.PNG" / height ="500"/ width="800">
   <img src="https://github.com/ADVAIT135/Bharat_Intern_Artificial_Inteligence_Intern_/blob/main/Task_1_Resume_Parser/5.PNG" / height ="500"/ width="800">
 </p>
+
+# Task - 2 : Auto Correct Tool
+<h2 align="left">Runtime snaps of Auto Correct Tool using NLTK:</h2>
+<p align="left"> 
+  <img src="https://github.com/ADVAIT135/Bharat_Intern_Artificial_Inteligence_Intern_/blob/main/Task_2_Auto_Correct_Tool/1.PNG" / height ="500"/ width="800">
+  <img src="https://github.com/ADVAIT135/Bharat_Intern_Artificial_Inteligence_Intern_/blob/main/Task_2_Auto_Correct_Tool/2.PNG" / height ="500"/ width="800">
+  <img src="https://github.com/ADVAIT135/Bharat_Intern_Artificial_Inteligence_Intern_/blob/main/Task_2_Auto_Correct_Tool/3.PNG" / height ="500"/ width="800">
+  <img src="https://github.com/ADVAIT135/Bharat_Intern_Artificial_Inteligence_Intern_/blob/main/Task_2_Auto_Correct_Tool/4.PNG" / height ="500"/ width="800">
+</p>
